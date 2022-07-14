@@ -727,6 +727,9 @@
                       "dynamicPropertyPathList": [
                         {
                           "key": "primaryColumns.customColumn1.onClick"
+                        },
+                        {
+                          "key": "isVisibleSearch"
                         }
                       ],
                       "displayName": "Table",
@@ -956,7 +959,7 @@
                       "serverSidePaginationEnabled": false,
                       "renderMode": "CANVAS",
                       "horizontalAlignment": "LEFT",
-                      "isVisibleSearch": true,
+                      "isVisibleSearch": "true",
                       "isVisiblePagination": false,
                       "verticalAlignment": "CENTER"
                     }
